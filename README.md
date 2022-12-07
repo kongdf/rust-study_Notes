@@ -11,6 +11,8 @@
 [Rusty Book(锈书)](https://rusty.rs/about.html)
 
 
+[Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+
 
 ## 书籍
 
