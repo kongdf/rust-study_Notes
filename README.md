@@ -13,6 +13,9 @@
 
 [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
 
+## 练习册
+[Rust语言实战](https://zh.practice.rs/why-exercise.html)
+
 
 ## 书籍
 
